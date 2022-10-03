@@ -54559,7 +54559,7 @@ if(a.a2(t.e9).f.d){s=A.bl(a).y2.Cx(B.aM,new A.mp(B.a8,B.xP,B.k,r,r,B.eh,B.k,r,r,
 s=A.a4V(B.aM,A.a3J(r,r,r,r,r,0,r,r,r,r,r,r,r,r,r,r,r,r),B.a8,s,B.k,new A.H(4280230180),B.qu,q,B.k,B.aM,r)}else{s=A.bl(a).y2.Cx(B.aM,new A.mp(B.a0,B.xL,B.h,r,r,B.eh,B.k,r,r,r,r,r,r,B.xO,B.h,r,r,B.h,B.k,B.h,B.k,r,r,r,r,r,r,r,r,B.kJ,B.xC),B.h)
 s=A.a4V(B.aM,A.a3J(r,r,r,r,r,0,r,r,r,r,r,r,r,r,r,r,r,r),B.a0,s,B.h,B.h,B.qu,q,B.h,B.aM,r)}return new A.rc(new A.zM(r),"Phu Nguyen",s,!1,r)}}
 A.zM.prototype={
-R(a){var s=null,r=A.PT("assets/avatar2.jpg"),q=A.ic(s,40,s),p=A.Dd("Phu Nguyen",A.bl(a).RG.e,B.dM,s,2),o=A.ic(s,50,s),n=A.Dd("Artificial Intelligence. Data Science. Machine Learning \nFood.",A.bl(a).RG.Q,B.dM,s,2),m=A.ic(s,50,s),l=A.a5d(A.ic(A.PT("assets/github.png"),20,20),A.Dd("Github",s,s,s,s),new A.Py()),k=A.a5d(A.ic(A.PT("assets/twitter.png"),20,20),A.Dd("Twitter",s,s,s,s),new A.Pz()),j=t.fQ
+R(a){var s=null,r=A.PT("assets/avatar2.jpg"),q=A.ic(s,40,s),p=A.Dd("Phu Nguyen",A.bl(a).RG.e,B.dM,s,2),o=A.ic(s,50,s),n=A.Dd("Artificial Intelligence. Data Science. Machine Learning. \nFood.",A.bl(a).RG.Q,B.dM,s,2),m=A.ic(s,50,s),l=A.a5d(A.ic(A.PT("assets/github.png"),20,20),A.Dd("Github",s,s,s,s),new A.Py()),k=A.a5d(A.ic(A.PT("assets/twitter.png"),20,20),A.Dd("Twitter",s,s,s,s),new A.Pz()),j=t.fQ
 return new A.CH(A.a3U(new A.jq(B.ys,new A.y1(B.bf,B.f3,B.f4,B.cR,s,B.jx,s,A.b([new A.xq(r.c,100,s),q,p,o,n,m,A.a4F(A.b([l,k,A.a5d(A.ic(A.PT(a.a2(t.e9).f.d?"assets/medium.png":"assets/medium_light.png"),20,20),A.Dd("Linkedin",s,s,s,s),new A.PA())],j),B.cR,B.Cr,B.f4)],j),s),s),s,s),s)}}
 A.Py.prototype={
 $0(){return B.jy.vI(window,"https://github.com/phunguyen1195","adityadroid")},

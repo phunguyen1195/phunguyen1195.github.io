@@ -39,7 +39,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/AssetManifest.json": "0d4618b31e1a5916d98865231234e79d",
 "version.json": "bd341ba74d38c530da636604a427deda",
-"main.dart.js": "16b243395e4c3424e41c764a38893947",
+"main.dart.js": "8f910e9e602c3d541dd39e05ae1590b9",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
 "canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
