@@ -2,25 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://foowiin.com/tags/first/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://foowiin.com/posts/my_first_post/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://foowiin.com/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://foowiin.com/posts/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://foowiin.com/tags/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://foowiin.com/archive/</loc>
   </url><url>
     <loc>https://foowiin.com/categories/</loc>
   </url><url>
+    <loc>https://foowiin.com/</loc>
+  </url><url>
     <loc>https://foowiin.com/search/</loc>
+  </url><url>
+    <loc>https://foowiin.com/tags/</loc>
   </url>
 </urlset>
