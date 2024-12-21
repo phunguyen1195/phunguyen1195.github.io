@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: You're a different person at any moment.
+subtitle: You're a different person at any moment. Be kind to the person you'll become.
 
 # profile:
   # align: right
